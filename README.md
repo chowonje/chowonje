@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm chowonje 👋
+# Hi, I'm wonje 👋
 
 **Building local-first AI tools, evidence-driven research systems, and developer workflows.**
 
