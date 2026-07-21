@@ -36,24 +36,6 @@
 
 <div align="center">
 
-### 🎧 Now playing
-
-**Deja Vu · RESCENE**
-
-<a href="https://music.apple.com/kr/song/1822439986">
-  <img src="https://img.shields.io/badge/Listen_on-Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" alt="Listen to Deja Vu by RESCENE on Apple Music" />
-</a>
-
-<br/>
-
-<sub>Dearest - Single · 2025</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### Public workbench
 
 | Surface | What it is | Status |
